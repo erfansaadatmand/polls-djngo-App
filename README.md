@@ -1,5 +1,8 @@
 ## Django Project Overview
 
+I completed the Django project tutorial provided by the official Django documentation [here](https://docs.djangoproject.com/en/5.0/intro/). Throughout this project, I gained hands-on experience with Django and familiarized myself with its fundamental concepts, including setting up a Django project, defining models, creating views and templates, handling forms, and deploying the application. By following the tutorial, I learned how to develop a web application using Django in a systematic and structured manner.
+
+
 ### Introduction
 I completed a Django project following the official Django documentation. Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
@@ -12,5 +15,6 @@ I completed a Django project following the official Django documentation. Django
 - Deploying a Django project to a web server for production use
 - Exploring Django's powerful features for building web applications efficiently
 
-### Next Steps
-I plan to continue expanding my knowledge of Django by exploring more advanced topics and building more complex web applications using this robust framework.
+### Next Learning Goal: REST API Development
+
+My next learning goal is to delve into RESTful API development using Django. I aim to expand my skills by mastering Django REST Framework and learning how to build robust APIs to support web and mobile applications. Developing RESTful APIs will enable me to create scalable and efficient backend solutions for various projects.
